@@ -3,8 +3,6 @@ const SOCKET_MESSAGES = {
 	SOCKET_DISCONNECTED: 'SOCKET_DISCONNECTED',
 };
 
-console.log('hihi');
-
 Object.freeze(SOCKET_MESSAGES);
 
 module.exports = SOCKET_MESSAGES;
