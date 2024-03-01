@@ -1,0 +1,317 @@
+[
+	{
+		"id": 1,
+		"key": "C1",
+		"name": "Golden-Eyes Idol",
+		"type": "COIN",
+		"img_url": "https://images.ygoprodeck.com/images/cards/78642798.jpg",
+		"original_value": 1,
+		"value": 1
+	},
+	{
+		"id": 2,
+		"key": "C2",
+		"name": "Silvervine Senri",
+		"type": "COIN",
+		"img_url": "https://images.ygoprodeck.com/images/cards/13382806.jpg",
+		"original_value": 2,
+		"value": 2
+	},
+	{
+		"id": 3,
+		"key": "C3",
+		"name": "Sonic Duck",
+		"type": "COIN",
+		"img_url": "https://images.ygoprodeck.com/images/cards/84696266.jpg",
+		"original_value": 3,
+		"value": 3
+	},
+	{
+		"id": 4,
+		"key": "C4",
+		"name": "Gem-Turtle",
+		"type": "COIN",
+		"img_url": "https://images.ygoprodeck.com/images/cards/64734090.jpg",
+		"original_value": 4,
+		"value": 4
+	},
+	{
+		"id": 5,
+		"key": "C5",
+		"name": "Ill Witch",
+		"type": "COIN",
+		"img_url": "https://images.ygoprodeck.com/images/cards/81686058.jpg",
+		"original_value": 5,
+		"value": 5
+	},
+	{
+		"id": 6,
+		"key": "C5",
+		"name": "Ill Witch",
+		"type": "COIN",
+		"img_url": "https://images.ygoprodeck.com/images/cards/81686058.jpg",
+		"original_value": 5,
+		"value": 5
+	},
+	{
+		"id": 7,
+		"key": "C7",
+		"name": "Dark Magician",
+		"type": "COIN",
+		"img_url": "https://images.ygoprodeck.com/images/cards/46986414.jpg",
+		"original_value": 7,
+		"value": 7
+	},
+	{
+		"id": 8,
+		"key": "C7",
+		"name": "Dark Magician",
+		"type": "COIN",
+		"img_url": "https://images.ygoprodeck.com/images/cards/46986414.jpg",
+		"original_value": 7,
+		"value": 7
+	},
+	{
+		"id": 9,
+		"key": "C9",
+		"name": "Gem-Knight Master Diamond",
+		"type": "COIN",
+		"img_url": "https://images.ygoprodeck.com/images/cards/39512984.jpg",
+		"original_value": 9,
+		"value": 9
+	},
+	{
+		"id": 10,
+		"key": "C11",
+		"name": "Dogmatika Nexus",
+		"type": "COIN",
+		"img_url": "https://images.ygoprodeck.com/images/cards/22073844.jpg",
+		"original_value": 11,
+		"value": 11
+	},
+	{
+		"id": 11,
+		"key": "C11",
+		"name": "Dogmatika Nexus",
+		"type": "COIN",
+		"img_url": "https://images.ygoprodeck.com/images/cards/22073844.jpg",
+		"original_value": 11,
+		"value": 11
+	},
+	{
+		"id": 12,
+		"key": "C12",
+		"name": "Diamond Crab King",
+		"type": "COIN",
+		"img_url": "https://images.ygoprodeck.com/images/cards/7194917.jpg",
+		"original_value": 12,
+		"value": 12
+	},
+	{
+		"id": 13,
+		"key": "C13",
+		"name": "Diamond Crab King",
+		"type": "COIN",
+		"img_url": "https://images.ygoprodeck.com/images/cards/7194917.jpg",
+		"original_value": 13,
+		"value": 13
+	},
+	{
+		"id": 14,
+		"key": "C14",
+		"name": "Diamond Crab King",
+		"type": "COIN",
+		"img_url": "https://images.ygoprodeck.com/images/cards/7194917.jpg",
+		"original_value": 14,
+		"value": 14
+	},
+	{
+		"id": 15,
+		"key": "C17",
+		"name": "Geonator Transverser",
+		"type": "COIN",
+		"img_url": "https://images.ygoprodeck.com/images/cards/52119435.jpg",
+		"original_value": 17,
+		"value": 17
+	},
+	{
+		"id": 16,
+		"key": "T1",
+		"name": "Adhesion Trap Hole",
+		"type": "TRAP",
+		"img_url": "https://images.ygoprodeck.com/images/cards/62325062.jpg",
+		"original_value": 0,
+		"value": 0
+	},
+	{
+		"id": 17,
+		"key": "T1",
+		"name": "Adhesion Trap Hole",
+		"type": "TRAP",
+		"img_url": "https://images.ygoprodeck.com/images/cards/62325062.jpg",
+		"original_value": 0,
+		"value": 0
+	},
+	{
+		"id": 18,
+		"key": "T1",
+		"name": "Adhesion Trap Hole",
+		"type": "TRAP",
+		"img_url": "https://images.ygoprodeck.com/images/cards/62325062.jpg",
+		"original_value": 0,
+		"value": 0
+	},
+	{
+		"id": 19,
+		"key": "T2",
+		"name": "Banishing Trap Hole",
+		"type": "TRAP",
+		"img_url": "https://images.ygoprodeck.com/images/cards/89569453.jpg",
+		"original_value": 0,
+		"value": 0
+	},
+	{
+		"id": 20,
+		"key": "T2",
+		"name": "Banishing Trap Hole",
+		"type": "TRAP",
+		"img_url": "https://images.ygoprodeck.com/images/cards/89569453.jpg",
+		"original_value": 0,
+		"value": 0
+	},
+	{
+		"id": 21,
+		"key": "T2",
+		"name": "Banishing Trap Hole",
+		"type": "TRAP",
+		"img_url": "https://images.ygoprodeck.com/images/cards/89569453.jpg",
+		"original_value": 0,
+		"value": 0
+	},
+	{
+		"id": 22,
+		"key": "T3",
+		"name": "Card of Sacrifice",
+		"type": "TRAP",
+		"img_url": "https://images.ygoprodeck.com/images/cards/88513608.jpg",
+		"original_value": 0,
+		"value": 0
+	},
+	{
+		"id": 23,
+		"key": "T3",
+		"name": "Card of Sacrifice",
+		"type": "TRAP",
+		"img_url": "https://images.ygoprodeck.com/images/cards/88513608.jpg",
+		"original_value": 0,
+		"value": 0
+	},
+	{
+		"id": 24,
+		"key": "T3",
+		"name": "Card of Sacrifice",
+		"type": "TRAP",
+		"img_url": "https://images.ygoprodeck.com/images/cards/88513608.jpg",
+		"original_value": 0,
+		"value": 0
+	},
+	{
+		"id": 25,
+		"key": "T4",
+		"name": "Acid Trap Hole",
+		"type": "TRAP",
+		"img_url": "https://images.ygoprodeck.com/images/cards/41356845.jpg",
+		"original_value": 0,
+		"value": 0
+	},
+	{
+		"id": 26,
+		"key": "T4",
+		"name": "Acid Trap Hole",
+		"type": "TRAP",
+		"img_url": "https://images.ygoprodeck.com/images/cards/41356845.jpg",
+		"original_value": 0,
+		"value": 0
+	},
+	{
+		"id": 27,
+		"key": "T4",
+		"name": "Acid Trap Hole",
+		"type": "TRAP",
+		"img_url": "https://images.ygoprodeck.com/images/cards/41356845.jpg",
+		"original_value": 0,
+		"value": 0
+	},
+	{
+		"id": 28,
+		"key": "T5",
+		"name": "Eradicator Epidemic Virus",
+		"type": "TRAP",
+		"img_url": "https://images.ygoprodeck.com/images/cards/54974237.jpg",
+		"original_value": 0,
+		"value": 0
+	},
+	{
+		"id": 29,
+		"key": "T5",
+		"name": "Eradicator Epidemic Virus",
+		"type": "TRAP",
+		"img_url": "https://images.ygoprodeck.com/images/cards/54974237.jpg",
+		"original_value": 0,
+		"value": 0
+	},
+	{
+		"id": 30,
+		"key": "T5",
+		"name": "Eradicator Epidemic Virus",
+		"type": "TRAP",
+		"img_url": "https://images.ygoprodeck.com/images/cards/54974237.jpg",
+		"original_value": 0,
+		"value": 0
+	},
+	{
+		"id": 31,
+		"key": "G1",
+		"name": "Particle Fusion",
+		"type": "GEM",
+		"img_url": "https://images.ygoprodeck.com/images/cards/39261576.jpg",
+		"original_value": 5,
+		"value": 5
+	},
+	{
+		"id": 32,
+		"key": "G2",
+		"name": "Particle Fusion",
+		"type": "GEM",
+		"img_url": "https://images.ygoprodeck.com/images/cards/39261576.jpg",
+		"original_value": 7,
+		"value": 7
+	},
+	{
+		"id": 33,
+		"key": "G3",
+		"name": "Particle Fusion",
+		"type": "GEM",
+		"img_url": "https://images.ygoprodeck.com/images/cards/39261576.jpg",
+		"original_value": 8,
+		"value": 8
+	},
+	{
+		"id": 34,
+		"key": "G4",
+		"name": "Gem-Knight Fusion",
+		"type": "GEM",
+		"img_url": "https://images.ygoprodeck.com/images/cards/1264319.jpg",
+		"original_value": 10,
+		"value": 10
+	},
+	{
+		"id": 35,
+		"key": "G5",
+		"name": "Gem-Knight Fusion",
+		"type": "GEM",
+		"img_url": "https://images.ygoprodeck.com/images/cards/1264319.jpg",
+		"original_value": 12,
+		"value": 12
+	}
+]
